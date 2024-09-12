@@ -1,5 +1,9 @@
-sets={1,2,4,5,'2','wesds','3edsf'}
+string = "heythere"
 
-set2={1,62,7,'2','wesds','3edsf'}
+listis = list(string)
 
-print(sets - set2)
+listno1= [1,2,3,4,5,6,7,8,9,10]
+
+
+print(listis+listno1)
+print(type(listis))
