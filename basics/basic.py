@@ -1,3 +1,5 @@
-list1=(1,4,'2','3dfdsfdsf',5,6,7,8,9,10)
-list1.count(2)
-print(list1)
+sets={1,2,4,5,'2','wesds','3edsf'}
+
+set2={1,62,7,'2','wesds','3edsf'}
+
+print(sets - set2)
