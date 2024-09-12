@@ -1,4 +1,3 @@
-a=int(input("Enter a number: "))
-b=int(input("Enter another number: "))
-c=a+b
-print("The sum of the two numbers is: ",c)  
+list1=(1,4,'2','3dfdsfdsf',5,6,7,8,9,10)
+list1.count(2)
+print(list1)
